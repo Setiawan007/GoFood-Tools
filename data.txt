@@ -1,0 +1,14 @@
+List operator:
+1 = acak
+2 = axis
+3 = indosat
+4 = smartfren
+5 = telkomsel
+6 = three
+###############################
+{
+    "api": "24666U098b90a21262f7a18d503ccb1d320c1f",
+    "operator": "1",
+    "domain_email": "mail.com",
+    "pin": "222222"
+}
