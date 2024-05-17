@@ -92,4 +92,3 @@ php run.php
 Check Voucher terkadang Error, atau terdeteksi 0 voucher 
 Jangan khawatir karena voucher sudah pasti muncul.
 Jika ingin mengubah Default PIN dan Custom Email silahkan edit di file `data.txt`
-Fri May 17 10:17:12 UTC 2024
