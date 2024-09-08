@@ -93,4 +93,3 @@ Check Voucher terkadang Error, atau terdeteksi 0 voucher
 Jangan khawatir karena voucher sudah pasti muncul.
 Jika ingin mengubah Default PIN dan Custom Email silahkan edit di file `data.txt`
 Tue Sep  3 01:22:30 UTC 2024
-Sun Sep  8 22:17:20 UTC 2024
